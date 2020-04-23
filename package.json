@@ -1,0 +1,22 @@
+{
+  "name": "passport-xero-oauth2",
+  "version": "1.0.0",
+  "description": "Xero platform authentication strategy for Passport.js",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/accountsguardian/passport-xero-oauth2"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^7.1.1",
+    "should": "^13.2.3"
+  },
+  "dependencies": {
+    "passport-oauth": "^1.0.0",
+    "passport-oauth2": "^1.5.0"
+  }
+}
