@@ -4,9 +4,8 @@
 
 This is a Xero OAuth2 authentication strategy for [Passport.js](http://passportjs.org/). Passport is authentication middleware for Node.js that can be unobtrusively dropped into any Express-based web application.
 
-[![Build Status](https://travis-ci.org/accountsguardian/passport-xero-oauth2.svg?branch=master)](https://travis-ci.org/accountsguardian/passport-xero-oauth2)
+![](https://github.com/accountsguardian/passport-xero-oauth2/workflows/nodejs/badge.svg)
 [![npm](https://img.shields.io/npm/v/passport-xero-oauth2)](https://npmjs.org/package/passport-xero-oauth2)
-[![npm](https://img.shields.io/npm/dm/passport-xero-oauth2)](https://npmjs.org/package/passport-xero-oauth2)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
